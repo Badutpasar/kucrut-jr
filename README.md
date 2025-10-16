@@ -1,3 +1,5 @@
+# Link Installer
+```
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && \
 sysctl -w net.ipv6.conf.default.disable_ipv6=1 && \
 apt update --allow-releaseinfo-change && \
@@ -7,3 +9,4 @@ echo -e "\nDependencies terinstall\n" && \
 curl -s -O https://raw.githubusercontent.com/kucrutjr12/kucrut-jr/main/setup && \
 chmod +x setup && \
 ./setup
+```
