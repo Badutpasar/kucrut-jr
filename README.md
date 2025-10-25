@@ -1,3 +1,11 @@
+## SUPPORT OS
+
+Ubuntu 20.04/ 22.04 / 24.04 / 25.04
+
+Debian 10 / 11 / 12
+
+
+
 # Link Installer
 ```
 sysctl -w net.ipv6.conf.all.disable_ipv6=1
