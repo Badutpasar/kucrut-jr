@@ -1,10 +1,10 @@
 ## SUPPORT OS
 
-- DEBIAN 10/11/12
+- DEBIAN 10 / 11 / 12
 
 ![alt text](https://github.com/kucrutjr12/kucrut-jr/blob/main/Debian.png?raw=true)
 
-- UBUNTU 20/ 22 / 24 / 25
+- UBUNTU 20 / 22 / 24 / 25
 
 ![alt text](https://github.com/kucrutjr12/kucrut-jr/blob/main/Ubuntu.png?raw=true)
 
