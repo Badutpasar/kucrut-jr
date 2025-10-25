@@ -1,7 +1,8 @@
 ## SUPPORT OS
-UBUNTU 20.04/ 22.04 / 24.04 / 25.04
 
-DEBIAN 10 / 11 / 12
+- UBUNTU 20.04/22.04/24.04/25.04
+
+- DEBIAN 10/11/12
 ![alt text](https://github.com/kucrutjr12/kucrut-jr/blob/main/Debian.png?raw=true)
 ![alt text](https://github.com/kucrutjr12/kucrut-jr/blob/main/Ubuntu.png?raw=true)
 
