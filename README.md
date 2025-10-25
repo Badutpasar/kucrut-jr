@@ -1,9 +1,11 @@
 ## SUPPORT OS
 
 - DEBIAN 10/11/12
+
 ![alt text](https://github.com/kucrutjr12/kucrut-jr/blob/main/Debian.png?raw=true)
 
 - UBUNTU 20.04/22.04/24.04/25.04
+
 ![alt text](https://github.com/kucrutjr12/kucrut-jr/blob/main/Ubuntu.png?raw=true)
 
 # Link Installer
