@@ -1,7 +1,7 @@
 ## SUPPORT OS
 
 - DEBIAN
-- 10/11/12
+ 10/11/12
 
 ![alt text](https://github.com/kucrutjr12/kucrut-jr/blob/main/Debian.png?raw=true)
 
