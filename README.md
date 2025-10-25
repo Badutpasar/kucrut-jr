@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/kucrutjr12/kucrut-jr/blob/main/Debian.png?raw=true)
 
-- UBUNTU20.04/ 22 / 24 /25.04
+- UBUNTU 20/ 22 / 24 / 25
 
 ![alt text](https://github.com/kucrutjr12/kucrut-jr/blob/main/Ubuntu.png?raw=true)
 
